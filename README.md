@@ -49,8 +49,11 @@
 2.设备选择    
 #### 设备选择
 <table>
-    <td> miaoshu  </td>   
-    
+    <tr>
+
+  <td colspan="5">  设备选择  </td>   
+
+    </tr>
        
 
 
