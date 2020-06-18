@@ -28,7 +28,10 @@
     会导致整个网络瘫痪，布线中采用了两条主干道，都充分的考虑到网络冗余，为日后网络的管理与维护都提供了便利。
 ## 系统总体设计
 
-这是学生公寓总体设计示意图： ![](http://m.qpic.cn/psc?/V113YiXu2vGqqA/ZOCeIbt3t.P7YdMG6dQVpCW5EBYXrl0KEaoLQqO8QbH0fvDzDfob5a0pUTuDNqNqiqP0KwkF0kOz.u2KsngT6w!!/m&bo=kQY4BAAAAAADB4k!&rf=photolist)
+这是学生公寓总体设计示意图：
+![](http://m.qpic.cn/psc?/V113YiXu2vGqqA/ZOCeIbt3t.P7YdMG6dQVpCW5EBYXrl0KEaoLQqO8QbH0fvDzDfob5a0pUTuDNqNqiqP0KwkF0kOz.u2KsngT6w!!/m&bo=kQY4BAAAAAADB4k!&rf=photolist)
+
+
 
 ## 网络拓扑结构设计
    不同宿舍楼连接到相同的服务器上，各宿舍楼分别安装服务器，宿舍楼各层安装不同的交换机，每层宿舍楼使用总线型结构，每间宿舍都接入无线局域网，供不同移动终端使用。
