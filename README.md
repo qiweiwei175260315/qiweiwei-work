@@ -40,7 +40,7 @@
    ![](http://m.qpic.cn/psc?/V113YiXu2vGqqA/ZOCeIbt3t.P7YdMG6dQVpJ2FbYn0vE9aj4WH2ch7qRQLpKUHrqx1w.6dWqLYwVoJbLsL4muZhqq5pN.CS7rdYw!!/m&bo=qAa2AwAAAAADBzk!&rf=photolist)
    
    
-##物理设计（设备选型）
+##  物理设计（设备选型）
 1. 设计标准   
     IEEE802.3 10－BASE－T  
     IEEE802.3u Ethernet(100BASE-T)   
@@ -81,8 +81,18 @@
     
  </table>
  
- 
-##IP地址分配
+  
+##  IP地址分配
+ ####  IP编址策略
+ IP地址是四段式10进制数字表示的，但是他实质上是一串32位的二进制码，每段从0-255。例如：192.168.1.2，如今的IP网络使
+ 用32位地址，以点分十进制表示，如192.168.0.1。
+ 地址格式为：IP地址=网络地址+主机地址或 IP地址=网络地址+子网地址+主机地址。
+ 网络地址是因特网协会的ICANN（the Internet Corporation for Assigned Names and Numbers）分配的，下有负责北美 
+ 地区的InterNIC、负责欧洲地区的RIPENIC和负责亚太地区的APNIC目的是为了保证网络地址的全球唯一性。主机地址是由各个网络
+ 的系统管理员分配。因此，网络地址的唯一性与网络内主机地址的唯一性确保了IP地址的全球唯一性。
+ 根据用途和安全性级别的不同，IP地址还可以大致分为两类：公共地址和私有地址。公用地址在Internet中使用，可以在Internet中
+ 随意访问。私有地址只能在内部网络中使用，只有通过代理服务器才能与Internet通信
+
 
     
 
