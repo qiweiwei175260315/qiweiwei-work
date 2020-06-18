@@ -46,10 +46,12 @@
     IEEE802.3u Ethernet(100BASE-T)   
     EIA/TIA568 EIA/TIA569EIA/TIA     
     TSB36/40工业标准及国际商务建筑布线标准   
-2.设备选择        
-|栏目|栏目|   
-|---|---|   
-|栏目|栏目|       
+2.设备选择    
+#### 设备选择
+<table>
+    <td> miaoshu  </td>   
+    
+       
 
 
    
