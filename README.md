@@ -47,18 +47,27 @@
     EIA/TIA568 EIA/TIA569EIA/TIA     
     TSB36/40工业标准及国际商务建筑布线标准   
 2.    
-         #### 设备选择
+#### 设备选择
 <table>
     <tr>    
         <td colspan="5">  设备选择  </td>      
     </tr>
     <tr>   
-        <td>交换机</td>  
-        <td> 路由器</td>   
-        <td> 防火墙</td>
+        <td>防火墙</td>  
+        <td> 交换机</td>   
+        <td> 路由器</td>
         <td> 物理链路</td>   
         <td> 移动终端</td>   
     </tr>  
+    <tr>
+    <td rowspan="3"> 网域ACF200 </td>   
+    <td>核心主交换机 QuiDway S6506 </td>
+    <td>华为AX3</td>
+    <td>2222</td>
+    <td>3333</td>
+    </tr>
+    
+    
 </table>
     
 
