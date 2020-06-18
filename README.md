@@ -63,20 +63,20 @@
     <td rowspan="3"> 网域ACF200 </td>   
     <td>核心主交换机 QuiDway S6506 </td>
     <td>华为AX3</td>
-    <td>2222</td>
-    <td>3333</td>
+    <td>10BASE-T</td>
+    <td>手机</td>
     </tr>
     <tr>
     <td>分层主交换机 QuiDway S5516 </td>
     <td>TP-LINK TL-R460</td>
-    <td>2222</td>
-    <td>3333</td>
+    <td>100BASE-F</td>
+    <td>windows、Mac、linux等os终端</td>
     </tr>
     <tr>
     <td>学生宿舍交换机 D-LINK 1008D </td>
     <td>  </td>
-    <td>2222</td>
-    <td>3333</td>
+    <td>同轴电缆</td>
+    <td>NAS</td>
     </tr>
     
     
