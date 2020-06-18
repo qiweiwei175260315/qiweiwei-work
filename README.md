@@ -49,10 +49,8 @@
 2.设备选择    
 #### 设备选择
 <table>
-    <tr>
-
-  <td colspan="5">  设备选择  </td>   
-
+    <tr>    
+        <td colspan="5">  设备选择  </td>      
     </tr>
        
 
