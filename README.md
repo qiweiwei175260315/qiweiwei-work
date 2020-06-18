@@ -64,13 +64,13 @@
     <td>核心主交换机 QuiDway S6506 </td>
     <td>华为AX3</td>
     <td>10BASE-T</td>
-    <td>手机</td>
+    <td>允许不同厂商手机</td>
     </tr>
     <tr>
     <td>分层主交换机 QuiDway S5516 </td>
     <td>TP-LINK TL-R460</td>
     <td>100BASE-F</td>
-    <td>windows、Mac、linux等os终端</td>
+    <td>Windows、Mac、Linux等os终端</td>
     </tr>
     <tr>
     <td>学生宿舍交换机 D-LINK 1008D </td>
@@ -79,8 +79,11 @@
     <td>NAS</td>
     </tr>
     
-    
-</table>
+ </table>
+ 
+ 
+##IP地址分配
+
     
 
    
