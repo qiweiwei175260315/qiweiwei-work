@@ -39,6 +39,18 @@
    这是学生公寓各栋网络拓扑结构示意图：
    ![](http://m.qpic.cn/psc?/V113YiXu2vGqqA/ZOCeIbt3t.P7YdMG6dQVpJ2FbYn0vE9aj4WH2ch7qRQLpKUHrqx1w.6dWqLYwVoJbLsL4muZhqq5pN.CS7rdYw!!/m&bo=qAa2AwAAAAADBzk!&rf=photolist)
    
+   
+##物理设计（设备选型）
+1. 设计标准
+    IEEE802.3 10－BASE－T
+    IEEE802.3u Ethernet(100BASE-T) 
+    EIA/TIA568 EIA/TIA569EIA/TIA
+    TSB36/40工业标准及国际商务建筑布线标准
+2.设备选择
+  |交换机|
+
+
+   
 
    
    
