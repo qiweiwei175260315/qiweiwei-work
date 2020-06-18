@@ -72,6 +72,12 @@
     <td>2222</td>
     <td>3333</td>
     </tr>
+    <tr>
+    <td>学生宿舍交换机 D-LINK 1008D </td>
+    <td>  </td>
+    <td>2222</td>
+    <td>3333</td>
+    </tr>
     
     
 </table>
