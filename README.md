@@ -24,7 +24,7 @@
     了三个以上的备用端口，冗余的端口为今后教学大楼进行办公室扩展都十分的方便，在综合布线的垂直主干道布线中，为了防止线路故障
     会导致整个网络瘫痪，布线中采用了两条主干道，都充分的考虑到网络冗余，为日后网络的管理与维护都提供了便利。
 ##系统总体设计
-这是学生公寓总体设计示意图： ！[]<http://m.qpic.cn/psc?/V113YiXu2vGqqA/ZOCeIbt3t.P7YdMG6dQVpB75BVvJF6QoqGrojizS6IeV.dIztl03Wq6O2aPMbL7IuAnw1G8yARZ*rtejxf5e4Q!!/b&bo=Cgc2BAAAAAADBx0!&rf=viewer_4>
+这是学生公寓总体设计示意图： ！[]（http://m.qpic.cn/psc?/V113YiXu2vGqqA/ZOCeIbt3t.P7YdMG6dQVpB75BVvJF6QoqGrojizS6IeV.dIztl03Wq6O2aPMbL7IuAnw1G8yARZ*rtejxf5e4Q!!/b&bo=Cgc2BAAAAAADBx0!&rf=viewer_4）
   
 
     
