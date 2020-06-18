@@ -32,6 +32,8 @@
 
 ## 网络拓扑结构设计
    不同宿舍楼连接到相同的服务器上，各宿舍楼分别安装服务器，宿舍楼各层安装不同的交换机，每层宿舍楼使用总线型结构，每间宿舍都接入无线局域网，供不同移动终端使用。
+   这是学生公寓各栋网络拓扑结构示意图：
+   ![](http://m.qpic.cn/psc?/V113YiXu2vGqqA/ZOCeIbt3t.P7YdMG6dQVpJ2FbYn0vE9aj4WH2ch7qRQLpKUHrqx1w.6dWqLYwVoJbLsL4muZhqq5pN.CS7rdYw!!/m&bo=qAa2AwAAAAADBzk!&rf=photolist)
    
 
 
