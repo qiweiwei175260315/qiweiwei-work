@@ -42,10 +42,10 @@
    
 ##物理设计（设备选型）
 1. 设计标准
-    IEEE802.3 10－BASE－T
-    IEEE802.3u Ethernet(100BASE-T) 
-    EIA/TIA568 EIA/TIA569EIA/TIA
-    TSB36/40工业标准及国际商务建筑布线标准
+    IEEE802.3 10－BASE－T  
+    IEEE802.3u Ethernet(100BASE-T)   
+    EIA/TIA568 EIA/TIA569EIA/TIA     
+    TSB36/40工业标准及国际商务建筑布线标准   
 2.设备选择
   |交换机|
 
