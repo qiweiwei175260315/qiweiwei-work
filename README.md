@@ -27,6 +27,11 @@
 
 这是学生公寓总体设计示意图： ![](http://m.qpic.cn/psc?/V113YiXu2vGqqA/ZOCeIbt3t.P7YdMG6dQVpB75BVvJF6QoqGrojizS6IeV.dIztl03Wq6O2aPMbL7IuAnw1G8yARZ*rtejxf5e4Q!!/b&bo=Cgc2BAAAAAADBx0!&rf=viewer_4)
 
+## 网络拓扑结构设计
+   不同宿舍楼连接到相同的服务器上，各宿舍楼分别安装服务器，宿舍楼各层安装不同的交换机，每层宿舍楼使用总线型结构，每间宿舍都接入无线局域网，供不同移动终端使用。
+   
+
+
     
     
     
